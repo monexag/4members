@@ -15,7 +15,7 @@ a message, we'd like to come back to you as the project progresses._
 **If you have any feedback or requirements for the solution, there is
 still plenty of room for change and feature requests, drop a note. Thanks!**
 
-**--- TO DO: REWRITE THIS WHOLE SECTION**
+_**--- TO DO: REWRITE THIS WHOLE SECTION!!! ---**_
 
 ## Setup
 
